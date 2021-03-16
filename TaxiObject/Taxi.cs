@@ -15,7 +15,10 @@ namespace TaxiObject
         public void TaxiInfo()
         {
             Console.WriteLine($"Driver Name : {DriverName}");
-            Console.WriteLine($"On Duty     : {OnDuty}");
+
+            if (OnDuty) Console.WriteLine($"On Duty     : Yes");
+            else Console.WriteLine($"On Duty     : No");
+
             Console.WriteLine($"Number Of Passengers : {NumPassenger}");
             Console.WriteLine();
         }
