@@ -1,0 +1,7 @@
+D:\programming\cs\TaxiObject\TaxiObject\bin\Debug\TaxiObject.exe.config
+D:\programming\cs\TaxiObject\TaxiObject\bin\Debug\TaxiObject.exe
+D:\programming\cs\TaxiObject\TaxiObject\bin\Debug\TaxiObject.pdb
+D:\programming\cs\TaxiObject\TaxiObject\obj\Debug\TaxiObject.csprojAssemblyReference.cache
+D:\programming\cs\TaxiObject\TaxiObject\obj\Debug\TaxiObject.csproj.CoreCompileInputs.cache
+D:\programming\cs\TaxiObject\TaxiObject\obj\Debug\TaxiObject.exe
+D:\programming\cs\TaxiObject\TaxiObject\obj\Debug\TaxiObject.pdb

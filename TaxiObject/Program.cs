@@ -10,11 +10,12 @@ namespace TaxiObject
     {
         static void Main(string[] args)
         {
-            Taxi taxi = new Taxi();
-
-            taxi.DriverName = "Jono";
-            taxi.OnDuty = true;
-            taxi.NumPassenger = 10;
+            Taxi taxi = new Taxi
+            {
+                DriverName = "Jono",
+                OnDuty = true,
+                NumPassenger = 10
+            };
 
             taxi.TaxiInfo();
             taxi.PickUpPassenger();

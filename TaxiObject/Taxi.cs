@@ -14,17 +14,20 @@ namespace TaxiObject
 
         public void TaxiInfo()
         {
-            
+            Console.WriteLine($"Driver Name : {DriverName}");
+            Console.WriteLine($"On Duty     : {OnDuty}");
+            Console.WriteLine($"Number Of Passengers : {NumPassenger}");
+            Console.WriteLine();
         }
 
         public void PickUpPassenger()
         {
-
+            Console.WriteLine($"{DriverName} sedang menjemput penumpang");
         }
 
         public void DropOffPassenger()
         {
-
+            Console.WriteLine($"{DriverName} selesai mengantar penumpang");
         }
     }
 }
